@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Suitmedia Internship Test</string>
+    <string name="name">Name</string>
+    <string name="check">Check</string>
+    <string name="next">Next</string>
+    <string name="welcome">Welcome</string>
+    <string name="second_screen">Second Screen</string>
+    <string name="selected_username">Select User</string>
+    <string name="third_screen">Third Screen</string>
+    <string name="choose_user">Choose a User</string>
+    <string name="data_not_found">Data not found</string>
+</resources>
